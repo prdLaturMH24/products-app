@@ -1,3 +1,7 @@
+# Required packages to be installed 
+This project requires react-bootstrap
+## Run following command after installing npm package
+### `npm install react-bootstrap`
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
