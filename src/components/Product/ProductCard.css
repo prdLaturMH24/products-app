@@ -1,0 +1,14 @@
+.product:hover {
+    border-bottom: 3px solid yellow;
+    border-right: 3px solid yellow;
+}
+
+.mainPrice{
+    text-decoration: line-through;
+    color: black;
+}
+
+.product-image{
+    width: 269px;
+    height: 150px;
+}

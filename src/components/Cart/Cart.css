@@ -1,0 +1,18 @@
+#productCard {
+    border: 2px solid black;
+}
+
+.quantity{
+    border: 1px solid  grey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.increment:hover{
+    cursor: pointer;
+}
+.decrement:hover{
+    cursor: pointer;
+}
